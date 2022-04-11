@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/budget-react-code/static/css/main.e9c11ff2.css",
+    "main.js": "/budget-react-code/static/js/main.e1ec22be.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/budget-react-code/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/budget-react-code/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/budget-react-code/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/budget-react-code/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/budget-react-code/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/family-budget-planning.jpg": "/budget-react-code/static/media/family-budget-planning.e797d5571299070b958f.jpg",
+    "static/media/BUDGET.jpg": "/budget-react-code/static/media/BUDGET.c42b0db41890da32d298.jpg",
+    "static/media/logo.svg": "/budget-react-code/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/budget-react-code/index.html",
+    "main.e9c11ff2.css.map": "/budget-react-code/static/css/main.e9c11ff2.css.map",
+    "main.e1ec22be.js.map": "/budget-react-code/static/js/main.e1ec22be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c11ff2.css",
+    "static/js/main.e1ec22be.js"
+  ]
+}

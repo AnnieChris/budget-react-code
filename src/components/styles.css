@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(245, 247, 247);
+}
+.budgetplanner_heading{
+    background-color: rgb(78, 76, 76);
+    color: beige;
+    
+  
+    width: 100%;
+    padding: 20px;
+   
+}
+.budgetplanner_heading h1{
+    font-family: 'Mukta', sans-serif;
+    text-transform: uppercase;
+}
+.budgetplanner_contents{
+    width: 70%;
+    font-family: 'Merriweather', serif;
+    margin: auto;
+    background-color: darkgrey;
+    padding: 20px;
+ 
+}
+.budget_head{
+    
+    padding: 20px;
+}
+
+.budget_head p{
+    background-color:#596475;
+    display: inline-grid;
+    max-width: 100%;
+    padding: 20px;
+    margin: 10px;
+    color: antiquewhite;
+    width: 18em;
+    
+}
+.budget_edit_btn{
+    background-color:darkslategrey;
+    border: darkslategray;
+    width: 3em;
+    justify-content: center;
+    display: inline-flex;
+    padding: 3px;
+    position: absolute;
+    left: 530px;
+}
+.budget_update{
+    background-color:rgb(175, 185, 199);
+    border: none;
+    color: midnightblue;
+    width: 4em;
+    padding: 2PX;
+}
+.budget_update_text{
+    width: 10em;
+    margin: 0.5em;
+}
+.text-success{
+    margin-left: 10px;
+    color: #8fb7ff !important;
+}
+p.budget {
+    padding: 15px;
+    
+}
+.budget button{
+    margin: 0px 10px;
+    padding: 0px 5px;
+
+}
+.row{
+    margin: 0;
+    max-width: 100%;
+}
+.budget_txtbx{
+    padding: 15px;
+    width:100%;
+    margin: 10px 0px;
+}
+.form-label {text-align: left;
+    padding: 20px;  
+    width: 20em;
+}
+.btn_add{
+    width: 7em;
+    padding: 10px 20px;
+    max-width: 100%;
+    display: inline-flex;
+    margin: 10px 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.search_btn{
+    width: 70%;
+    padding: 10px;
+    margin: 10px 0px;
+    
+    
+}
+.search_btn::placeholder{
+    font:normal 17px FontAwesome;
+    color: rgb(104, 102, 131);
+}
+.list-group{
+    margin: auto;
+    width: 70%;
+}
+.list-group-item{
+    
+    margin: 10px 0px auto;
+    text-align: center;
+    background-color:#38384c;
+
+    text-transform: capitalize;
+    color: cornsilk;
+}
+.btn-success{
+    float:right;
+}

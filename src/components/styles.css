@@ -28,24 +28,24 @@ body{
 }
 
 .budget_head p{
-    background-color:#596475;
+    background-color: #596475;
+    color: #faebd7;
     display: inline-grid;
-    max-width: 100%;
-    padding: 20px;
     margin: 10px;
-    color: antiquewhite;
-    width: 18em;
+    max-width: 100%;
+    padding: 15px;
+    width: 16em;
     
 }
 .budget_edit_btn{
-    background-color:darkslategrey;
-    border: darkslategray;
-    width: 3em;
-    justify-content: center;
+    background-color: #2f4f4f;
+    border: #2f4f4f;
     display: inline-flex;
+    justify-content: center;
+    left: 35%;
     padding: 3px;
     position: absolute;
-    left: 530px;
+    width: 3em;
 }
 .budget_update{
     background-color:rgb(175, 185, 199);
@@ -61,6 +61,7 @@ body{
 .text-success{
     margin-left: 10px;
     color: #8fb7ff !important;
+   
 }
 p.budget {
     padding: 15px;
